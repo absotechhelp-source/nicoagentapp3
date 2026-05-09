@@ -2,7 +2,7 @@
 // NICO Life Agent — Service Worker v4.1
 // UPDATE: bump this version string each time you deploy
 // ============================================================
-const CACHE_VERSION = 'nico-agent-4.1';
+const CACHE_VERSION = 'nico-agent-4.2';
 const OFFLINE_PAGE  = './index.html';
 
 // Install — cache the app shell
